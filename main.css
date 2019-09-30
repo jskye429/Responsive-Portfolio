@@ -15,5 +15,11 @@ background-color: aliceblue
     padding-right: 15px;
     width: 200px;
     
-    
+}
+
+.footer {
+    float: center;
+    padding-top: 300px
+
+
 }
