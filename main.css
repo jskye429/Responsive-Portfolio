@@ -3,6 +3,17 @@
 }
 
 .body {
+background-color: aliceblue
 
 
+
+}
+
+.my-headshot {
+    float: left;
+    height: 200px;
+    padding-right: 15px;
+    width: 200px;
+    
+    
 }
